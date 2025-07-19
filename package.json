@@ -6,9 +6,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@solana/web3.js": "^1.65.1",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "@jup-ag/core": "github:jup-ag/core#main"
+  "@solana/web3.js": "^1.65.1",
+  "cors": "^2.8.5",
+  "express": "^4.18.2",
+  "@jup-ag/core": "git+https://github.com/jup-ag/core.git"
   }
 }
